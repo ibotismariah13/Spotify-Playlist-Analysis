@@ -1,0 +1,41 @@
+﻿2020-11-08T16:19:24Z        2020-11-08        16:19:24Z        11:19:24        The River of Dreams        Billy Joel        The Essential Billy Joel
+2020-11-08T16:19:55Z        2020-11-08        16:19:55Z        11:19:55        Lullabye (Goodnight, My Angel)        Billy Joel        The Essential Billy Joel
+2020-11-08T16:20:10Z        2020-11-08        16:20:10Z        11:20:10        New York State of Mind        Billy Joel        The Essential Billy Joel
+2020-11-08T16:20:42Z        2020-11-08        16:20:42Z        11:20:42        You're My Home        Billy Joel        The Essential Billy Joel
+2020-11-08T16:21:11Z        2020-11-08        16:21:11Z        11:21:11        Hotel California - 2013 Remaster        Eagles        Hotel California (2013 Remaster)
+2020-11-08T16:21:17Z        2020-11-08        16:21:17Z        11:21:17        Desperado - 2013 Remaster        Eagles        Desperado (2013 Remaster)
+2020-11-08T16:21:35Z        2020-11-08        16:21:35Z        11:21:35        Take It Easy - 2013 Remaster        Eagles        Eagles (2013 Remaster)
+2020-11-08T16:21:43Z        2020-11-08        16:21:43Z        11:21:43        Captain Jack        Billy Joel        The Essential Billy Joel
+2020-11-08T16:22:04Z        2020-11-08        16:22:04Z        11:22:04        Heartache Tonight - 2013 Remaster        Eagles        The Long Run (2013 Remaster)
+2020-11-08T16:22:19Z        2020-11-08        16:22:19Z        11:22:19        I'm Still Standing        Elton John        Too Low For Zero
+2020-11-08T16:22:25Z        2020-11-08        16:22:25Z        11:22:25        Don't Go Breaking My Heart        Elton John Kiki Dee        To Be Continued...
+2020-11-08T16:22:28Z        2020-11-08        16:22:28Z        11:22:28        Your Song        Elton John        Elton John
+2020-11-08T16:22:55Z        2020-11-08        16:22:55Z        11:22:55        Crocodile Rock        Elton John        Don't Shoot Me I'm Only The Piano Player
+2020-11-08T16:23:34Z        2020-11-08        16:23:34Z        11:23:34        Rich Girl        Daryl Hall & John Oates        Bigger Than Both Of Us
+2020-11-08T16:23:39Z        2020-11-08        16:23:39Z        11:23:39        Carry On Wayward Son - Single Version        Kansas        OCC ROCKS
+2020-11-08T16:24:36Z        2020-11-08        16:24:36Z        11:24:36        Dancing In the Dark        Bruce Springsteen        Born In The U.S.A.
+2020-11-08T16:24:51Z        2020-11-08        16:24:51Z        11:24:51        Life in the Fast Lane - 2013 Remaster        Eagles        Hotel California (2013 Remaster)
+2020-11-08T16:25:39Z        2020-11-08        16:25:39Z        11:25:39        Fortunate Son        Creedence Clearwater Revival        The Long Road Home - The Ultimate John Fogerty - Creedance Collection
+2020-11-08T16:25:49Z        2020-11-08        16:25:49Z        11:25:49        Old Time Rock & Roll        Bob Seger        Stranger In Town
+2020-11-08T16:26:25Z        2020-11-08        16:26:25Z        11:26:25        Money        Pink Floyd        The Dark Side of the Moon
+2020-11-08T16:26:37Z        2020-11-08        16:26:37Z        11:26:37        Hey Jude - Remastered 2009        The Beatles        Past Masters (Vols. 1 & 2 / Remastered)
+2020-11-08T16:26:43Z        2020-11-08        16:26:43Z        11:26:43        Come Together - Remastered 2009        The Beatles        Abbey Road (Remastered)
+2020-11-08T16:26:59Z        2020-11-08        16:26:59Z        11:26:59        Angie        The Rolling Stones        Goats Head Soup (Remastered 2009)
+2020-11-08T16:28:44Z        2020-11-08        16:28:44Z        11:28:44        Goodbye Yellow Brick Road        Elton John        Goodbye Yellow Brick Road (Newly Remastered)
+2020-11-08T16:31:53Z        2020-11-08        16:31:53Z        11:31:53        Brown Eyed Girl        Van Morrison        Blowin' Your Mind!
+2020-11-08T16:33:12Z        2020-11-08        16:33:12Z        11:33:12        Talk Dirty To Me        Poison        Look What The Cat Dragged In
+2020-11-08T16:33:24Z        2020-11-08        16:33:24Z        11:33:24        Sweet Child O' Mine        Guns N' Roses        Appetite For Destruction (Explicit Version)
+2020-11-08T16:35:51Z        2020-11-08        16:35:51Z        11:35:51        Wouldn't It Be Nice - Stereo Mix        The Beach Boys        Pet Sounds (Original Mono & Stereo Mix Versions)
+2020-11-08T16:35:56Z        2020-11-08        16:35:56Z        11:35:56        Kokomo        The Beach Boys        Made In California
+2020-11-08T16:36:33Z        2020-11-08        16:36:33Z        11:36:33        Sweet Caroline        Neil Diamond        Sweet Caroline
+2020-11-08T16:37:16Z        2020-11-08        16:37:16Z        11:37:16        Somebody's Baby        Jackson Browne        The Next Voice You Hear - The Best Of Jackson Browne
+2020-11-08T16:37:20Z        2020-11-08        16:37:20Z        11:37:20        Running on Empty        Jackson Browne        Running on Empty / Nothing but Time (Digital 45)
+2020-11-08T16:37:54Z        2020-11-08        16:37:54Z        11:37:54        Ophelia        The Lumineers        Cleopatra
+2020-11-08T16:38:22Z        2020-11-08        16:38:22Z        11:38:22        Gloria        The Lumineers        III
+2020-11-08T16:39:29Z        2020-11-08        16:39:29Z        11:39:29        Stubborn Love        The Lumineers        The Lumineers
+2020-11-08T16:39:44Z        2020-11-08        16:39:44Z        11:39:44        Big Ol World        Saint Motel        Big Ol World (from At home with the kids)
+2020-11-08T16:40:05Z        2020-11-08        16:40:05Z        11:40:05        Sweet Talk        Saint Motel        saintmotelevision
+2020-11-08T16:40:53Z        2020-11-08        16:40:53Z        11:40:53        No Reason To Run        Cold War Kids        LA DIVINE
+2020-11-08T16:41:50Z        2020-11-08        16:41:50Z        11:41:50        Cold Cold Cold        Cage The Elephant        Tell Me I'm Pretty
+2020-11-13T02:44:17Z        2020-11-13        02:44:17Z        21:44:17        Songs I Can't Listen To        Neon Trees        Songs I Can't Listen To
+2020-11-14T23:33:58Z        2020-11-14        23:33:58Z        18:33:58        Keeper        Patent Pending        Riot Hearts Rebellion

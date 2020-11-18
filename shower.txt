@@ -1,0 +1,8 @@
+﻿2020-11-09T01:00:30Z        2020-11-09        01:00:30Z        20:00:30        Vienna        Billy Joel        The Stranger (Legacy Edition)
+2020-11-09T01:00:34Z        2020-11-09        01:00:34Z        20:00:34        Take It Easy - 2013 Remaster        Eagles        Eagles (2013 Remaster)
+2020-11-09T01:00:39Z        2020-11-09        01:00:39Z        20:00:39        She's Always a Woman        Billy Joel        The Stranger (Legacy Edition)
+2020-11-09T01:00:44Z        2020-11-09        01:00:44Z        20:00:44        And So It Goes        Billy Joel        Storm Front
+2020-11-09T01:00:55Z        2020-11-09        01:00:55Z        20:00:55        Desperado - 2013 Remaster        Eagles        Desperado (2013 Remaster)
+2020-11-09T01:01:00Z        2020-11-09        01:01:00Z        20:01:00        I'm Still Standing        Elton John        Too Low For Zero
+2020-11-09T01:01:25Z        2020-11-09        01:01:25Z        20:01:25        Wouldn't It Be Nice - Stereo Mix        The Beach Boys        Pet Sounds (Original Mono & Stereo Mix Versions)
+2020-11-09T01:01:35Z        2020-11-09        01:01:35Z        20:01:35        Running on Empty        Jackson Browne        Running on Empty / Nothing but Time (Digital 45)

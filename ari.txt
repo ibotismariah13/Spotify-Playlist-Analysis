@@ -1,0 +1,217 @@
+﻿2019-07-01T15:47:20Z        2019-07-01        15:47:20Z        10:47:20        I Don't Want to Love You        Taylor Mathews        Do What You Want To
+2019-07-08T04:08:33Z        2019-07-08        04:08:33Z        23:08:33        Take It Back        Jef Miles Dom Fricot        Take It Back (Feat. Dom Fricot)
+2019-07-08T04:31:17Z        2019-07-08        04:31:17Z        23:31:17        You're My Favorite Song - From "Camp Rock 2: The Final Jam"        Demi Lovato Joe Jonas        Camp Rock 2: The Final Jam
+2019-07-08T19:00:05Z        2019-07-08        19:00:05Z        14:00:05        Silhouettes & Sand        Jake Scott        Silhouettes & Sand
+2019-07-08T19:13:15Z        2019-07-08        19:13:15Z        14:13:15        Cold War        Foreign Figures        Overzealous - EP
+2019-07-08T19:20:21Z        2019-07-08        19:20:21Z        14:20:21        Tunnels        Melodime        Tunnels
+2019-07-08T19:26:25Z        2019-07-08        19:26:25Z        14:26:25        Dance - Acoustic        Tim Halperin        Searching for the Same Thing
+2019-07-08T20:11:11Z        2019-07-08        20:11:11Z        15:11:11        Wonders        The Script        Freedom Child
+2019-07-08T20:29:36Z        2019-07-08        20:29:36Z        15:29:36        Love Letter        JJ Heller        Love Letter
+2019-07-08T20:30:53Z        2019-07-08        20:30:53Z        15:30:53        Be Somebody        Boyce Avenue        Road Less Traveled
+2019-07-09T02:50:19Z        2019-07-09        02:50:19Z        21:50:19        A Way to You Again        Peter Bradley Adams        The Mighty Storm
+2019-07-09T02:53:36Z        2019-07-09        02:53:36Z        21:53:36        Bubbly        Colbie Caillat        Coco
+2019-07-09T02:58:38Z        2019-07-09        02:58:38Z        21:58:38        Love Her        Jonas Brothers        Happiness Begins
+2019-07-09T03:27:31Z        2019-07-09        03:27:31Z        22:27:31        Location - Recorded at Spotify Studios NYC        AJR        Spotify Singles
+2019-07-09T03:58:33Z        2019-07-09        03:58:33Z        22:58:33        Perfect        Ed Sheeran        ÷ (Deluxe)
+2019-07-09T12:38:29Z        2019-07-09        12:38:29Z        7:38:29        Barcelona        Ed Sheeran        ÷ (Deluxe)
+2019-07-09T12:39:22Z        2019-07-09        12:39:22Z        7:39:22        Galway Girl        Ed Sheeran        ÷ (Deluxe)
+2019-07-10T04:32:58Z        2019-07-10        04:32:58Z        23:32:58        I See Fire        Ed Sheeran        x (Deluxe Edition)
+2019-07-10T04:51:13Z        2019-07-10        04:51:13Z        23:51:13        Nancy Mulligan        Ed Sheeran        ÷ (Deluxe)
+2019-07-13T23:29:02Z        2019-07-13        23:29:02Z        23:29:02        Hearts Don't Break Around Here        Ed Sheeran        ÷ (Deluxe)
+2019-07-20T14:15:11Z        2019-07-20        14:15:11Z        9:15:11        The Words        The Madison Letter        Covers Sessions, Vol. 1
+2019-07-20T14:27:58Z        2019-07-20        14:27:58Z        9:27:58        Can't Help Falling In Love        Hearts & Colors        Can't Help Falling In Love
+2019-07-22T23:42:47Z        2019-07-22        23:42:47Z        18:42:47        We Should Plant a Tree        Ross Copperman        We Should Plant a Tree
+2019-07-23T00:08:02Z        2019-07-23        00:08:02Z        19:08:02        Toothbrush        Marielle Kraft        Toothbrush
+2019-07-23T00:12:27Z        2019-07-23        00:12:27Z        19:12:27        Rendezvous        A N X        Rendezvous
+2019-07-23T02:23:20Z        2019-07-23        02:23:20Z        21:23:20        Luck        American Authors        Oh, What A Life
+2019-07-23T18:36:18Z        2019-07-23        18:36:18Z        13:36:18        Rock And Roll        Castro        Diamond Dreams
+2019-07-25T02:46:24Z        2019-07-25        02:46:24Z        21:46:24        My Own Hero        Andy Grammer        My Own Hero / Don't Give Up On Me
+2019-07-25T21:00:40Z        2019-07-25        21:00:40Z        16:00:40        Video Girl        Jonas Brothers        A Little Bit Longer
+2019-07-30T14:05:57Z        2019-07-30        14:05:57Z        9:05:57        Together        Clemency        Together
+2019-07-30T14:16:59Z        2019-07-30        14:16:59Z        9:16:59        Blink        Revive        Blink
+2019-07-30T14:23:36Z        2019-07-30        14:23:36Z        9:23:36        Before You - Acoustic Mix        The Ready Set Karra        Before You (Acoustic Mix)
+2019-07-30T14:36:58Z        2019-07-30        14:36:58Z        9:36:58        Porcelain Face        4 Door Theatre        Only Imagine
+2019-07-30T14:44:45Z        2019-07-30        14:44:45Z        9:44:45        Love This Girl        Stars Go Dim        Love This Girl
+2019-07-30T14:48:55Z        2019-07-30        14:48:55Z        9:48:55        Waiting for Superman        Daughtry        It's Not Over....The Hits So Far
+2019-07-30T19:52:47Z        2019-07-30        19:52:47Z        14:52:47        Someone to Dance With        Nick Lachey        Someone to Dance With
+2019-07-31T02:35:34Z        2019-07-31        02:35:34Z        21:35:34        Whole Lives        Jake Scott        Whole Lives
+2019-07-31T11:48:04Z        2019-07-31        11:48:04Z        6:48:04        One Shot        Hunter Hayes        One Shot
+2019-07-31T11:59:52Z        2019-07-31        11:59:52Z        6:59:52        Pushing        Andy Grammer        Magazines Or Novels
+2019-08-02T10:39:04Z        2019-08-02        10:39:04Z        5:39:04        Mechanical Heart        Jon D        Alone Together
+2019-08-02T12:19:22Z        2019-08-02        12:19:22Z        7:19:22        Here With Me        Dan Olsen        Here With Me
+2019-08-05T19:54:27Z        2019-08-05        19:54:27Z        14:54:27        If I'm Gonna Fall in Love        A Rocket To The Moon        Wild & Free (Deluxe)
+2019-08-06T18:13:08Z        2019-08-06        18:13:08Z        13:13:08        Deep Water        American Authors        Seasons
+2019-08-06T21:11:12Z        2019-08-06        21:11:12Z        16:11:12        Where You Wanna Go (feat. Emily Hearn)        Graham Colton Emily Hearn        Where You Wanna Go (feat. Emily Hearn)
+2019-08-06T21:15:52Z        2019-08-06        21:15:52Z        16:15:52        Interstellar Hearts        Awake or Sleeping        Interstellar Hearts
+2019-08-06T21:19:23Z        2019-08-06        21:19:23Z        16:19:23        Mr. Moon        Jonah Taylor        Songs from 6th East
+2019-08-06T21:28:18Z        2019-08-06        21:28:18Z        16:28:18        Won't Let Go        Harbor & Home        Fighter
+2019-08-07T16:59:55Z        2019-08-07        16:59:55Z        11:59:55        Ocean        Ben Woodward        Ocean
+2019-08-09T01:10:39Z        2019-08-09        01:10:39Z        20:10:39        One in a Million        Matoma        One in a Million
+2019-08-09T01:50:16Z        2019-08-09        01:50:16Z        20:50:16        Hooked        Why Don't We        8 Letters
+2019-08-09T01:54:52Z        2019-08-09        01:54:52Z        20:54:52        Pom Poms        Jonas Brothers        Pom Poms
+2019-08-09T02:40:26Z        2019-08-09        02:40:26Z        21:40:26        That's Just The Way We Roll        Jonas Brothers        Jonas Brothers
+2019-08-09T02:55:26Z        2019-08-09        02:55:26Z        21:55:26        When You Look Me in the Eyes        Jonas Brothers        Jonas Brothers
+2019-08-09T16:11:04Z        2019-08-09        16:11:04Z        11:11:04        Stand In The Light        Jordan Smith        Something Beautiful
+2019-08-10T16:03:46Z        2019-08-10        16:03:46Z        11:03:46        Rich Man        Hearts & Colors        Prologue
+2019-08-10T21:30:02Z        2019-08-10        21:30:02Z        16:30:02        We Don't Have to Be Ordinary        Something in the Night        I'm Not Fine at All
+2019-08-10T21:44:05Z        2019-08-10        21:44:05Z        16:44:05        Problems        The Tide        Young Love
+2019-08-11T14:35:24Z        2019-08-11        14:35:24Z        9:35:24        Any Kind of Guy        Big Time Rush        BTR
+2019-08-12T02:19:56Z        2019-08-12        02:19:56Z        21:19:56        That Kind of Love        MAX        Wrong
+2019-08-13T01:24:25Z        2019-08-13        01:24:25Z        20:24:25        Whistle        Flo Rida        Wild Ones
+2019-08-16T00:44:20Z        2019-08-16        00:44:20Z        19:44:20        This Is Not Goodbye        Sidewalk Prophets        Live Like That
+2019-08-19T01:45:10Z        2019-08-19        01:45:10Z        20:45:10        Xo        Nightly        Xo
+2019-08-19T01:52:19Z        2019-08-19        01:52:19Z        20:52:19        You Are Not Alone        Michael Jackson        HIStory - PAST, PRESENT AND FUTURE - BOOK I
+2019-08-19T16:42:13Z        2019-08-19        16:42:13Z        11:42:13        Stand by Me        Ben E. King        Don't Play That Song (Mono)
+2019-08-21T00:13:13Z        2019-08-21        00:13:13Z        19:13:13        Crush        David Archuleta        David Archuleta
+2019-08-21T00:18:18Z        2019-08-21        00:18:18Z        19:18:18        Endlessly        The Cab        Symphony Soldier
+2019-08-21T01:20:18Z        2019-08-21        01:20:18Z        20:20:18        Hey, Princess        Allstar Weekend        Suddenly
+2019-08-21T01:44:17Z        2019-08-21        01:44:17Z        20:44:17        Somebody To You        The Vamps Demi Lovato        Meet The Vamps
+2019-08-21T01:49:27Z        2019-08-21        01:49:27Z        20:49:27        Just the Girl        The Click Five        Greetings From Imrie House (U.S. Version)
+2019-08-21T15:43:13Z        2019-08-21        15:43:13Z        10:43:13        Beautiful Excuses        Rixton        Let The Road
+2019-08-21T15:52:12Z        2019-08-21        15:52:12Z        10:52:12        Appreciated        Rixton        Me And My Broken Heart
+2019-08-21T16:08:40Z        2019-08-21        16:08:40Z        11:08:40        Rest Your Love        The Vamps        Wake Up (Deluxe)
+2019-08-21T17:07:34Z        2019-08-21        17:07:34Z        12:07:34        Missing You        The Vamps        Missing You - EP
+2019-08-21T17:13:57Z        2019-08-21        17:13:57Z        12:13:57        All Night        The Vamps Matoma        Night & Day (Night Edition)
+2019-08-21T17:19:50Z        2019-08-21        17:19:50Z        12:19:50        Million Words        The Vamps        Wake Up (Deluxe)
+2019-08-22T00:55:40Z        2019-08-22        00:55:40Z        19:55:40        Never Had A Dream Come True        S Club 7        7
+2019-08-22T14:23:39Z        2019-08-22        14:23:39Z        9:23:39        Que Sera        Justice Crew        Que Sera
+2019-08-22T14:35:30Z        2019-08-22        14:35:30Z        9:35:30        Why        Sabrina Carpenter        Why
+2019-08-22T21:21:09Z        2019-08-22        21:21:09Z        16:21:09        Waiting Outside The Lines        Greyson Chance        Hold On ‘Til The Night
+2019-08-25T12:25:13Z        2019-08-25        12:25:13Z        7:25:13        Please Don't Go (A Cappella)        Joel Adams        Please Don't Go (A Cappella)
+2019-08-25T15:16:58Z        2019-08-25        15:16:58Z        10:16:58        Leavin'        Jesse McCartney        Departure - Recharged
+2019-08-25T15:21:00Z        2019-08-25        15:21:00Z        10:21:00        No Strings Attached        *NSYNC        No Strings Attached
+2019-08-25T15:25:06Z        2019-08-25        15:25:06Z        10:25:06        Give Me Just One Night (Una Noche)        98º        Revelation
+2019-08-28T00:00:46Z        2019-08-28        00:00:46Z        19:00:46        Keep It Moving        MY RED + BLUE        Keep It Moving
+2019-09-01T16:36:24Z        2019-09-01        16:36:24Z        11:36:24        Glass        Ross Copperman        Glass
+2019-09-01T17:04:37Z        2019-09-01        17:04:37Z        12:04:37        All We Have Is Now        Ross Copperman        All We Have Is Now
+2019-09-01T17:06:00Z        2019-09-01        17:06:00Z        12:06:00        Stella        Ross Copperman        Believe
+2019-09-01T19:25:28Z        2019-09-01        19:25:28Z        14:25:28        Soldier        Before You Exit        Soldier
+2019-09-01T19:42:20Z        2019-09-01        19:42:20Z        14:42:20        Never Seen Anything "Quite Like You" - Acoustic        The Script        Acoustic Sessions
+2019-09-02T01:37:41Z        2019-09-02        01:37:41Z        20:37:41        Say You Like Me        We The Kings        Sunshine State of Mind
+2019-09-02T03:05:09Z        2019-09-02        03:05:09Z        22:05:09        Love You Like the Movies        Anthem Lights        Escape
+2019-09-02T22:39:39Z        2019-09-02        22:39:39Z        17:39:39        Co-Pilot        Andy Grammer        Magazines Or Novels (Deluxe Edition)
+2019-09-02T22:48:32Z        2019-09-02        22:48:32Z        17:48:32        Forever And Always        Parachute        The Way It Was
+2019-09-02T23:05:13Z        2019-09-02        23:05:13Z        18:05:13        Angel With A Shotgun        The Cab        Symphony Soldier
+2019-09-04T12:04:53Z        2019-09-04        12:04:53Z        7:04:53        One Last Song        Tore Bojsten        One Last Song
+2019-09-04T19:42:36Z        2019-09-04        19:42:36Z        14:42:36        One Chance        Tim Be Told        One Chance
+2019-09-05T12:05:35Z        2019-09-05        12:05:35Z        7:05:35        Selfish        Brielle Von Hugel        Selfish
+2019-09-07T01:49:46Z        2019-09-07        01:49:46Z        20:49:46        A Drop In the Ocean        Ron Pope        Daylight
+2019-09-07T13:05:56Z        2019-09-07        13:05:56Z        8:05:56        This Could Change Everything        Francesca Battistelli        Own It
+2019-09-07T14:33:46Z        2019-09-07        14:33:46Z        9:33:46        Never Give Up        Sia        Never Give Up (From "Lion" Soundtrack)
+2019-09-08T02:48:05Z        2019-09-08        02:48:05Z        21:48:05        Pretty Girl - Cheat Codes X CADE Remix        Maggie Lindemann Cheat Codes CADE        Pretty Girl (Cheat Codes X CADE Remix)
+2019-09-09T02:09:02Z        2019-09-09        02:09:02Z        21:09:02        When There Was Me and You        Vanessa Hudgens        High School Musical Original Soundtrack
+2019-09-11T23:41:16Z        2019-09-11        23:41:16Z        18:41:16        Found/Tonight        Ben Platt Lin-Manuel Miranda        Found/Tonight
+2019-09-15T02:03:45Z        2019-09-15        02:03:45Z        21:03:45        Oceans Between Us        The Icarus Account        Over the Moon
+2019-09-15T02:08:54Z        2019-09-15        02:08:54Z        21:08:54        Everything We've Got        The Icarus Account        Girls Like You
+2019-09-15T02:11:47Z        2019-09-15        02:11:47Z        21:11:47        Cherry Street        The Icarus Account        Over the Moon
+2019-09-15T02:17:11Z        2019-09-15        02:17:11Z        21:17:11        Tsunami        The Icarus Account        Tsunami
+2019-09-15T02:35:11Z        2019-09-15        02:35:11Z        21:35:11        Susie        The Icarus Account        Keeper of Your Heart
+2019-09-15T03:08:05Z        2019-09-15        03:08:05Z        22:08:05        Girls Like You        The Icarus Account        Girls Like You
+2019-09-15T03:18:26Z        2019-09-15        03:18:26Z        22:18:26        Yellow Shirt        The Icarus Account        Sunshine And Rain
+2019-09-15T03:23:39Z        2019-09-15        03:23:39Z        22:23:39        Not Coming Home        The Icarus Account        Over the Moon
+2019-09-15T03:26:57Z        2019-09-15        03:26:57Z        22:26:57        I Love You Always        The Icarus Account        Carry Me Home
+2019-09-15T13:51:55Z        2019-09-15        13:51:55Z        8:51:55        Welcome to the Fire        Willyecho        Welcome to the Fire
+2019-09-15T15:22:52Z        2019-09-15        15:22:52Z        10:22:52        Like Ships Need the Sea        Emily Hearn        Red Balloon
+2019-09-19T02:08:33Z        2019-09-19        02:08:33Z        21:08:33        I Live My Life for You        Firehouse        Good Acoustics
+2019-09-19T02:12:34Z        2019-09-19        02:12:34Z        21:12:34        When I See You Smile        Bad English        Bad English
+2019-09-22T02:36:42Z        2019-09-22        02:36:42Z        21:36:42        Crazy        Aerosmith        Get A Grip (Reissue - Remaster)
+2019-09-27T00:30:34Z        2019-09-27        00:30:34Z        19:30:34        I Love You        Alex & Sierra        It's About Us
+2019-10-06T17:01:20Z        2019-10-06        17:01:20Z        12:01:20        What Breaks My Heart        Parachute        Wide Awake
+2019-10-06T17:49:07Z        2019-10-06        17:49:07Z        12:49:07        What Side Of Love - Acoustic Version        Parachute        What Side Of Love (Acoustic Version)
+2019-10-08T02:21:24Z        2019-10-08        02:21:24Z        21:21:24        Good Kid        Chris McCarrell The Lightning Thief Company Rob Rokicki        The Lightning Thief (Original Cast Recording)
+2019-10-08T02:43:00Z        2019-10-08        02:43:00Z        21:43:00        Start of Something New        Troy Gabriella        High School Musical Original Soundtrack
+2019-10-10T02:45:50Z        2019-10-10        02:45:50Z        21:45:50        Can You Feel the Love Tonight        Elton John        The Lion King: Special Edition Original Soundtrack (English Version)
+2019-10-10T15:12:09Z        2019-10-10        15:12:09Z        10:12:09        Helplessly        Tatiana Manaois        Helplessly
+2019-10-15T00:21:03Z        2019-10-15        00:21:03Z        19:21:03        Can I Have This Dance - Original Version        High School Musical Cast Vanessa Hudgens Zac Efron        High School Musical 3: Senior Year
+2019-10-25T02:29:31Z        2019-10-25        02:29:31Z        21:29:31        Neverland - Original Broadway Cast Recording        Matthew Morrison Laura Michelle Kelly        Finding Neverland (Original Broadway Cast Recording)
+2019-10-28T01:42:34Z        2019-10-28        01:42:34Z        20:42:34        On My Own        Quietdrive        The Ghost of What You Used to Be
+2019-10-29T23:05:26Z        2019-10-29        23:05:26Z        18:05:26        Runner Up        Jason Chen        Glass Heart
+2019-10-29T23:23:54Z        2019-10-29        23:23:54Z        18:23:54        Could This Be Love        The Wanted        Word Of Mouth (Deluxe)
+2019-11-14T23:42:57Z        2019-11-14        23:42:57Z        18:42:57        30,000 Feet        Ben Rector        Brand New
+2019-11-17T01:21:25Z        2019-11-17        01:21:25Z        20:21:25        Falling in Love        Sherie Rene Scott        Sherie Rene...Men I've Had
+2019-11-19T12:19:34Z        2019-11-19        12:19:34Z        7:19:34        Don't Deserve You        Plumb        Need You Now
+2019-11-19T12:24:01Z        2019-11-19        12:24:01Z        7:24:01        Dancing In The Minefields        Andrew Peterson        Counting Stars
+2019-11-20T01:26:23Z        2019-11-20        01:26:23Z        20:26:23        Won't Say I'm in Love (Mashup) [feat. Terrence Williams, Jamahl Rawls & Foti]        Thomas Sanders Foti Terrance Williams Jamahl Rawls        Won't Say I'm in Love (Mashup) [feat. Terrence Williams, Jamahl Rawls & Foti]
+2019-11-20T01:33:33Z        2019-11-20        01:33:33Z        20:33:33        What You Mean To Me - Original Broadway Cast Recording        Matthew Morrison Laura Michelle Kelly        Finding Neverland (Original Broadway Cast Recording)
+2019-11-20T03:05:00Z        2019-11-20        03:05:00Z        22:05:00        Shiksa Goddess        Jeremy Jordan        The Last Five Years (Original Motion Picture Soundtrack)
+2019-11-21T04:58:15Z        2019-11-21        04:58:15Z        23:58:15        I Won't Say (I'm in Love)        Carrie Hope Fletcher        When the Curtain Falls
+2019-11-25T02:47:53Z        2019-11-25        02:47:53Z        21:47:53        Red Is The Rose        The High Kings        Memory Lane
+2019-11-29T04:38:28Z        2019-11-29        04:38:28Z        23:38:28        Into the Unknown - Panic! At The Disco Version        Panic! At The Disco        Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+2019-11-30T17:34:22Z        2019-11-30        17:34:22Z        12:34:22        Ready As I'll Ever Be        Varian Cast - Tangled        Tangled: The Series (Music from the TV Series)
+2019-12-03T04:02:13Z        2019-12-03        04:02:13Z        23:02:13        I Won't Say (I'm in Love)        Carrie Hope Fletcher        When the Curtain Falls
+2019-12-03T14:39:51Z        2019-12-03        14:39:51Z        9:39:51        On Your Side        CiN3MA        Cin3ma
+2019-12-15T15:39:56Z        2019-12-15        15:39:56Z        10:39:56        Letters from War        Mark Schultz        Mark Schultz: Stories & Songs
+2019-12-15T15:57:26Z        2019-12-15        15:57:26Z        10:57:26        Lighthouse        Collabro        Home
+2019-12-15T16:46:18Z        2019-12-15        16:46:18Z        11:46:18        Stealing Cinderella        Chuck Wicks        Starting Now
+2019-12-15T17:22:11Z        2019-12-15        17:22:11Z        12:22:11        You'll Be in My Heart (Feat. Bryan Lanning)        Peter Hollens Bryan Lanning        You'll Be in My Heart (feat. Bryan Lanning)
+2019-12-15T20:22:39Z        2019-12-15        20:22:39Z        15:22:39        When I Say I Do        Matthew West        Hello, My Name Is: Greatest Hits
+2019-12-17T01:30:09Z        2019-12-17        01:30:09Z        20:30:09        Always Be My Baby        Tim Halperin        Covers
+2019-12-17T01:54:37Z        2019-12-17        01:54:37Z        20:54:37        Poison and Wine        Alex Cornell        Youtube Sessions
+2019-12-18T00:09:26Z        2019-12-18        00:09:26Z        19:09:26        Home        Gabrielle Aplin        Home
+2019-12-18T14:30:39Z        2019-12-18        14:30:39Z        9:30:39        Good Years        ZAYN        Icarus Falls
+2019-12-20T17:53:43Z        2019-12-20        17:53:43Z        12:53:43        Beautiful Scars        Maximillian        Beautiful Scars
+2019-12-21T03:42:03Z        2019-12-21        03:42:03Z        22:42:03        I Was In Heaven        Chelsea Cutler        I Was In Heaven
+2019-12-21T19:26:36Z        2019-12-21        19:26:36Z        14:26:36        My Everything        Ariana Grande        My Everything (Deluxe)
+2019-12-21T19:42:55Z        2019-12-21        19:42:55Z        14:42:55        I Believe You        FLETCHER        I Believe You
+2019-12-21T19:45:50Z        2019-12-21        19:45:50Z        14:45:50        Just A Little Bit Of Your Heart        Ariana Grande        My Everything (Deluxe)
+2020-01-18T01:49:18Z        2020-01-18        01:49:18Z        20:49:18        What A Man Gotta Do        Jonas Brothers        What A Man Gotta Do
+2020-01-19T15:03:03Z        2020-01-19        15:03:03Z        10:03:03        Lonely        Diplo Jonas Brothers        Lonely
+2020-01-20T18:29:11Z        2020-01-20        18:29:11Z        13:29:11        Take A Chance On Me - From 'Mamma Mia!' Original Motion Picture Soundtrack        Julie Walters Stellan Skarsgård        Mamma Mia! The Movie Soundtrack
+2020-01-25T13:26:08Z        2020-01-25        13:26:08Z        8:26:08        All the Doubt in Town        eleventyseven        Attack of the Mountain Medley
+2020-01-25T13:31:12Z        2020-01-25        13:31:12Z        8:31:12        Barricade (Acoustic)        MY RED + BLUE        Barricade (Acoustic)
+2020-01-25T19:09:17Z        2020-01-25        19:09:17Z        14:09:17        I've Got You        The Honest Heart Collective        Grief Rights
+2020-02-21T01:31:23Z        2020-02-21        01:31:23Z        20:31:23        The Rising        Dallas Stars        The Rising
+2020-02-25T17:45:30Z        2020-02-25        17:45:30Z        12:45:30        Rhythm in the Stars        Liteyears        Rhythm in the Stars
+2020-03-15T14:42:44Z        2020-03-15        14:42:44Z        9:42:44        The Heart Never Lies - Live        McFly        Anthology Tour (The Hits Live)
+2020-03-15T15:25:31Z        2020-03-15        15:25:31Z        10:25:31        Superman        Ivory Layne        Something's Gonna Happen
+2020-03-15T15:31:21Z        2020-03-15        15:31:21Z        10:31:21        If Eyes Could Speak        Devon Werkheiser        Prologue
+2020-03-15T15:43:32Z        2020-03-15        15:43:32Z        10:43:32        Be Yours        Betsy Phillips        More Like Home - EP
+2020-03-15T15:46:54Z        2020-03-15        15:46:54Z        10:46:54        Daydreamin        Jonathan Tilkin        Daydreamin
+2020-03-16T14:28:04Z        2020-03-16        14:28:04Z        9:28:04        Barefoot and Bruised        Jamestown Story        Show Me Tomorrow
+2020-03-19T16:55:40Z        2020-03-19        16:55:40Z        11:55:40        Perfect Color        SafetySuit        #Youaretheperfectcolor
+2020-03-19T17:14:44Z        2020-03-19        17:14:44Z        12:14:44        I Will Always Be Yours        Ben Rector        Magic
+2020-03-31T18:44:17Z        2020-03-31        18:44:17Z        13:44:17        Stand By You        Marlisa        Marlisa
+2020-03-31T20:06:24Z        2020-03-31        20:06:24Z        15:06:24        Consequences        Camila Cabello        Camila
+2020-04-01T13:42:25Z        2020-04-01        13:42:25Z        8:42:25        Head Over Feeling        Taylor Mathews        Head Over Feeling
+2020-04-01T13:45:13Z        2020-04-01        13:45:13Z        8:45:13        Time to Go        Jilian Linklater        Time to Go
+2020-04-01T14:49:36Z        2020-04-01        14:49:36Z        9:49:36        You Got Me        Olivia Lane        You Got Me
+2020-04-04T01:34:11Z        2020-04-04        01:34:11Z        20:34:11        The Girl Gets Around        Billy Hartung Jennifer Laura Thompson Bryant Carroll Jim Ambler        Footloose: The Musical (Original Broadway Cast Recording)
+2020-04-08T03:23:07Z        2020-04-08        03:23:07Z        22:23:07        When I Play for the County        The 2 Johnnies        When I Play for the County
+2020-04-08T03:31:05Z        2020-04-08        03:31:05Z        22:31:05        Wagon Wheel        Nathan Carter        Wagon Wheel
+2020-04-08T03:35:05Z        2020-04-08        03:35:05Z        22:35:05        The Parting Glass        Celtic Woman        Emerald: Musical Gems
+2020-04-08T14:18:53Z        2020-04-08        14:18:53Z        9:18:53        A Spaceman Came Traveling        Chris de Burgh Celtic Woman David Downes Nick Ingman        Believe
+2020-04-10T18:56:06Z        2020-04-10        18:56:06Z        13:56:06        I'll Never Love Again - From "A Star Is Born"        Katherine Jenkins        I'll Never Love Again (From "A Star Is Born")
+2020-04-11T22:50:27Z        2020-04-11        22:50:27Z        17:50:27        For the Dancing and the Dreaming        Erutan        For the Dancing and the Dreaming
+2020-04-13T21:06:16Z        2020-04-13        21:06:16Z        16:06:16        Helium        Alex Goot        Helium
+2020-04-30T16:53:03Z        2020-04-30        16:53:03Z        11:53:03        CONVERSATIONS        Cannon        CONVERSATIONS
+2020-05-01T22:06:43Z        2020-05-01        22:06:43Z        17:06:43        Something Wild        Lindsey Stirling Andrew McMahon in the Wilderness        Brave Enough (Deluxe Edition)
+2020-05-03T18:38:44Z        2020-05-03        18:38:44Z        13:38:44        What Are We Fighting For        The Federal Empire        Road Through Hell
+2020-05-05T19:00:44Z        2020-05-05        19:00:44Z        14:00:44        Here's To Us        Kevin Rudolf        Here's To Us
+2020-05-20T02:34:12Z        2020-05-20        02:34:12Z        21:34:12        Dead Girl Walking        Barrett Wilbert Weed Ryan McCartan        Heathers: The Musical (World Premiere Cast Recording)
+2020-05-21T14:08:04Z        2020-05-21        14:08:04Z        9:08:04        I Want Us        The Roads Below        I Want Us
+2020-05-21T15:41:32Z        2020-05-21        15:41:32Z        10:41:32        Chances        Cole Norton        Chances
+2020-05-21T16:00:59Z        2020-05-21        16:00:59Z        11:00:59        Didn't Mean To        Montana Modderman        Didn't Mean To
+2020-05-21T16:14:41Z        2020-05-21        16:14:41Z        11:14:41        Take You Home        Cassadee Pope        stages
+2020-05-21T16:48:33Z        2020-05-21        16:48:33Z        11:48:33        If You Met Me First        Eric Ethridge        Eric Ethridge
+2020-05-23T14:59:52Z        2020-05-23        14:59:52Z        9:59:52        Rivers Deep        Gabby Barrett        Rivers Deep
+2020-06-10T17:33:16Z        2020-06-10        17:33:16Z        12:33:16        If We Have Each Other        Alec Benjamin        Narrated For You
+2020-06-14T23:17:15Z        2020-06-14        23:17:15Z        18:17:15        Blinded By The Light        Manfred Mann's Earth Band        The Roaring Silence
+2020-06-20T16:32:11Z        2020-06-20        16:32:11Z        11:32:11        Life Changes        Thomas Rhett        Life Changes
+2020-08-03T12:31:31Z        2020-08-03        12:31:31Z        7:31:31        Everglow (Acoustic)        Ollie Green        Everglow (Acoustic)
+2020-08-05T17:51:18Z        2020-08-05        17:51:18Z        12:51:18        Happier        Ed Sheeran        ÷ (Deluxe)
+2020-08-13T20:33:37Z        2020-08-13        20:33:37Z        15:33:37        Rude Boy - Remix        Kennaden Rihanna        De la bonne came
+2020-08-20T12:32:05Z        2020-08-20        12:32:05Z        7:32:05        When I Found You (feat. Alex Gaskarth)        Amber Pacific        The Turn
+2020-08-26T14:37:14Z        2020-08-26        14:37:14Z        9:37:14        Wherever You Go        A Rocket To The Moon        Wild & Free (Deluxe)
+2020-09-03T14:09:24Z        2020-09-03        14:09:24Z        9:09:24        Lights        Written by Wolves        Lights
+2020-09-08T18:44:24Z        2020-09-08        18:44:24Z        13:44:24        What We Live For        American Authors        What We Live For
+2020-09-12T23:28:10Z        2020-09-12        23:28:10Z        18:28:10        Long Distance Love        Roomie        Long Distance Love
+2020-09-24T16:17:00Z        2020-09-24        16:17:00Z        11:17:00        The Geeks Will Inherit the Earth        I Fight Dragons        The Geeks Will Inherit The Earth
+2020-09-25T17:10:23Z        2020-09-25        17:10:23Z        12:10:23        Oh the Places You'll Go        I Fight Dragons        Oh the Places You'll Go
+2020-09-25T23:01:16Z        2020-09-25        23:01:16Z        18:01:16        The Near Future II. Eighteen        I Fight Dragons        The Near Future
+2020-09-26T18:55:56Z        2020-09-26        18:55:56Z        13:55:56        Be Glad I Love You (Go to Bed)        Bug Hunter        The Rough Draft
+2020-09-26T19:04:58Z        2020-09-26        19:04:58Z        14:04:58        Hey Mario        Patent Pending        Brighter
+2020-09-30T16:18:45Z        2020-09-30        16:18:45Z        11:18:45        Punk Rock Songs        Patent Pending        Punk Rock Songs
+2020-10-02T13:50:43Z        2020-10-02        13:50:43Z        8:50:43        You're Mine        Maybe Next Summer        You're Mine
+2020-10-02T14:03:38Z        2020-10-02        14:03:38Z        9:03:38        A Starlit Sky        The Workday Release        Simple Distance
+2020-10-02T14:20:51Z        2020-10-02        14:20:51Z        9:20:51        It's On Us (Benefiting the "It's On Us" Campaign)        AJR        It's On Us (Benefiting the "It's On Us" Campaign)
+2020-10-22T00:16:51Z        2020-10-22        00:16:51Z        19:16:51        Dating a Dick        Patent Pending        Riot Hearts Rebellion

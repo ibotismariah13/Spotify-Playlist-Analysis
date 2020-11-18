@@ -1,0 +1,163 @@
+﻿2018-10-26        13:13:28Z        8:13:28        Legend        The Score        Legend
+2018-10-26        13:14:15Z        8:14:15        Unstoppable        The Score        ATLAS
+2018-10-26        13:14:23Z        8:14:23        Light That Fire        Oh The Larceny        Oh the Larceny
+2018-10-26        13:14:55Z        8:14:55        Revolution        The Score        ATLAS
+2018-10-26        13:15:28Z        8:15:28        Watch Me        The Phantoms        Take The World, Vol. 1 - EP
+2018-10-26        13:15:44Z        8:15:44        Legends Are Made        Sam Tinnesz        Babel
+2018-10-26        13:15:54Z        8:15:54        Ready Set Let's Go        Sam Tinnesz        Ready Set Let's Go
+2018-10-26        13:16:22Z        8:16:22        Can't Stop Me Now        Oh The Larceny        Oh the Larceny
+2018-10-26        13:16:29Z        8:16:29        Dangerous        Royal Deluxe        Born for This
+2018-10-26        13:16:53Z        8:16:53        Glory        The Score        Glory
+2018-10-26        13:17:00Z        8:17:00        Stronger        The Score        Stronger
+2018-10-27        12:58:53Z        7:58:53        Battleships        Daughtry        Baptized (Deluxe Version)
+2018-10-28        15:23:21Z        10:23:21        Going Home        The Score        ATLAS (Deluxe)
+2018-10-28        17:29:59Z        12:29:59        The Fear        The Score        The Fear
+2018-10-28        17:55:06Z        12:55:06        Oh My Love        The Score        ATLAS (Deluxe)
+2018-10-28        17:56:03Z        12:56:03        Don't Wanna Be        The Score        ATLAS (Deluxe)
+2018-10-29        12:33:29Z        7:33:29        Higher        The Score        ATLAS
+2018-10-29        12:33:52Z        7:33:52        Glitter & Gold        Barns Courtney        The Attractions Of Youth
+2018-10-29        12:34:00Z        7:34:00        Check It Out        Oh The Larceny        Oh the Larceny
+2018-10-29        12:34:01Z        7:34:01        Won't Go Down Easy        JAXSON GAMBLE        Won't Go Down Easy
+2018-10-29        12:34:31Z        7:34:31        Miracle        The Score        ATLAS
+2018-10-29        12:38:01Z        7:38:01        Legendary        Welshly Arms        No Place Is Home
+2018-10-29        12:38:54Z        7:38:54        Man on a Mission        Oh The Larceny        Oh the Larceny
+2018-10-31        11:35:06Z        6:35:06        Can't Hold Us - feat. Ray Dalton        Macklemore & Ryan Lewis        The Heist
+2018-11-05        12:26:01Z        7:26:01        Touch The Sky - From "Brave"/Soundtrack        Julie Fowlis        Brave
+2018-11-06        22:16:48Z        17:16:48        On My Way Home        Pentatonix        PTX, Vol. III
+2018-11-06        22:20:54Z        17:20:54        Right Here (Departed)        The Harvard Opportunes        Bring Me Back
+2018-11-06        23:21:04Z        18:21:04        Twistin' the Night Away        Straight No Chaser        Six Pack Volume 3
+2018-11-06        23:54:01Z        18:54:01        Come with Me Now        KONGOS        Lunatic
+2018-11-07        12:15:15Z        7:15:15        What He Don't Know        Anarbor        Burnout (Deluxe Version)
+2018-11-07        12:24:18Z        7:24:18        We Are the Young        Andy Kong        Meteor Showers
+2018-11-07        12:49:30Z        7:49:30        Out For Blood        Valley Of Wolves        Out For Blood
+2018-11-07        13:50:13Z        8:50:13        Mayday        Home Free        Timeless
+2018-11-08        12:26:52Z        7:26:52        The Man I Want to Be        Jake Scott        Silhouettes & Sand
+2018-11-08        12:51:40Z        7:51:40        Flesh Blood Skin & Bone        WOLFF        Flesh Blood Skin & Bone
+2018-11-08        12:59:58Z        7:59:58        Moon        The Cab        Lock Me Up
+2018-11-09        12:32:40Z        7:32:40        Go Big Or Go Home        American Authors        What We Live For
+2018-11-14        12:28:02Z        7:28:02        Never Let Her Go        Project Vela        Disconnected (Special Edition)
+2018-11-14        12:30:18Z        7:30:18        Not Gonna Break Me        Jamie N Commons        Jamie N Commons
+2018-11-14        12:40:41Z        7:40:41        All This Power        WAR*HALL        Break The System
+2018-11-14        12:41:52Z        7:41:52        Smoke Clears        Andy Grammer        The Good Parts
+2018-11-15        15:49:04Z        10:49:04        I Can't Outrun You        Home Free        Timeless
+2018-11-21        12:53:39Z        7:53:39        39 - Remastered 2011        Queen        A Night At The Opera (2011 Remaster)
+2018-11-26        12:30:26Z        7:30:26        The Wind        Zac Brown Band        Uncaged
+2018-11-26        12:33:06Z        7:33:06        I Play the Road        Zac Brown Band        You Get What You Give (Deluxe)
+2018-11-27        12:52:46Z        7:52:46        Someone I Used To Know        Zac Brown Band        Someone I Used To Know
+2018-12-07        12:28:03Z        7:28:03        Push Thru        Canon        Home
+2018-12-07        12:49:41Z        7:49:41        Geronimo        Damian McGinty        Geronimo
+2018-12-07        12:55:21Z        7:55:21        Yet to Come        Rapture Ruckus        Yet to Come
+2018-12-09        22:14:06Z        17:14:06        On the Road Again / I Play the Road        Straight No Chaser        The New Old Fashioned (Deluxe)
+2018-12-21        17:56:38Z        12:56:38        Someone To You        BANNERS        Empires On Fire
+2018-12-27        02:28:26Z        21:28:26        Silence        Citizen Shade        Silence
+2018-12-27        02:32:19Z        21:32:19        Here We Come        Tiger Drive        Here We Come
+2018-12-27        02:34:50Z        21:34:50        Take It Back        Jef Miles Dom Fricot        Take It Back (Feat. Dom Fricot)
+2018-12-27        02:46:50Z        21:46:50        Made For This        Carrollton        Made For This
+2018-12-27        03:08:32Z        22:08:32        Power Down        Christopher Bill        Half Man, Half Machine
+2018-12-27        15:38:11Z        10:38:11        Don't Knock It        Baylee Littrell        Don't Knock It
+2019-01-08        12:28:55Z        7:28:55        Passion That Bleeds        Common Vision        Common Vision
+2019-01-10        14:58:32Z        9:58:32        Me Against the World        Simple Plan        Still Not Getting Any
+2019-01-10        20:28:48Z        15:28:48        Astronaut        Simple Plan Julian Emery        Get Your Heart On!
+2019-01-11        14:26:14Z        9:26:14        Boom!        Simple Plan        Taking One for the Team
+2019-01-11        14:28:51Z        9:28:51        Welcome to My Life        Simple Plan        Still Not Getting Any
+2019-01-18        21:39:26Z        16:39:26        Who Do You Love        Marianas Trench        Astoria
+2019-01-18        21:49:58Z        16:49:58        Beside You        Marianas Trench        Masterpiece Theatre
+2019-01-18        22:11:39Z        17:11:39        Fallout        Marianas Trench        Ever After
+2019-02-05        12:57:46Z        7:57:46        The Call        Backstreet Boys        Black & Blue
+2019-02-13        13:13:54Z        8:13:54        Passionate        Backstreet Boys        DNA
+2019-02-18        01:59:42Z        20:59:42        Higher        Hilltop Hoods James Chatburn        Drinking From The Sun, Walking Under Stars Restrung
+2019-02-18        20:28:52Z        15:28:52        Knock the Dominoes        Scott & Brendo        Knock the Dominoes
+2019-02-18        20:57:36Z        15:57:36        Nothin' Like This        The Phantoms        Nothin' Like This - Single
+2019-02-22        12:55:08Z        7:55:08        Why Worry        Set It Off        Duality
+2019-02-24        14:39:03Z        9:39:03        You Are Loved - Demo        Set It Off        Cinematics (Deluxe)
+2019-02-24        14:42:54Z        9:42:54        Uncontainable        Set It Off        Upside Down
+2019-03-05        12:32:32Z        7:32:32        Pom Poms        Jonas Brothers        Pom Poms
+2019-03-06        01:52:32Z        20:52:32        World War III        Jonas Brothers        Lines, Vines and Trying Times
+2019-03-07        12:57:01Z        7:57:01        Wild Hearts        R5        Sometime Last Night
+2019-03-07        20:47:29Z        15:47:29        Do It Again        R5        Sometime Last Night
+2019-03-08        12:45:17Z        7:45:17        Ultimate        Lindsay Lohan        Freaky Friday
+2019-03-11        11:51:18Z        6:51:18        Kryptonite        Flight Paths        Kryptonite
+2019-03-11        11:59:08Z        6:59:08        Say So        My Favorite Highway        How To Call A Bluff
+2019-03-12        11:45:40Z        6:45:40        Rose Garden        Nick Jonas The Administration        Who I Am
+2019-03-12        11:54:31Z        6:54:31        Move Along        The All-American Rejects        Move Along
+2019-03-18        11:53:52Z        6:53:52        Moments Like This        The Afters        Life Is Beautiful
+2019-03-18        19:23:35Z        14:23:35        The Jungle        Zayde Wølf        The Jungle
+2019-03-19        02:21:07Z        21:21:07        Feels Like Home        In Paradise        Feels Like Home
+2019-03-20        11:57:59Z        6:57:59        Do My Own Thing        American Authors        Do My Own Thing
+2019-03-22        11:31:34Z        6:31:34        WD-40        Muscadine Bloodline        WD-40
+2019-03-22        11:33:53Z        6:33:53        WD-40        Muscadine Bloodline        Muscadine Bloodline
+2019-03-22        11:41:50Z        6:41:50        Porch Swing Angel        Muscadine Bloodline        Porch Swing Angel
+2019-03-25        11:25:04Z        6:25:04        Some Nights (Glee Cast Version)        Glee Cast        Glee: The Music, Season 4 Volume 1
+2019-03-27        11:28:08Z        6:28:08        Enter Sandman        Metallica        Metallica
+2019-04-02        19:52:36Z        14:52:36        The Hunter        Adam Jensen        The Hunter
+2019-04-03        11:38:06Z        6:38:06        The Original        Oh The Larceny        Move With It
+2019-04-11        03:29:16Z        22:29:16        I Swear This Time I Mean It        Mayday Parade        Anywhere But Here (Deluxe)
+2019-04-14        23:48:08Z        18:48:08        Back Home        Andy Grammer        Magazines Or Novels
+2019-04-16        01:40:54Z        20:40:54        Red Eye        Andy Grammer        Magazines Or Novels
+2019-04-16        01:59:52Z        20:59:52        Pushing        Andy Grammer        Magazines Or Novels
+2019-04-22        00:50:10Z        19:50:10        Who I'm Meant to Be        Anthem Lights        Painted Skies
+2019-04-25        02:36:27Z        21:36:27        Summer Nights        Justin Thorne Kevin McHale        Summer Nights
+2019-04-27        10:33:16Z        5:33:16        Something's Gotta Give        All Time Low        Future Hearts
+2019-05-07        11:39:14Z        6:39:14        Supernova Sunrise        We Are Leo        Hello Again
+2019-05-07        11:46:10Z        6:46:10        Helium        Mikey Wax        Helium
+2019-05-13        11:36:23Z        6:36:23        Head Above Water        Avril Lavigne        Head Above Water
+2019-06-21        16:21:15Z        11:21:15        Old Town Road        Lil Nas X        Old Town Road
+2019-06-21        16:26:09Z        11:26:09        Rock the World        The Script        Freedom Child
+2019-06-21        16:26:16Z        11:26:16        Rain        The Script        Freedom Child
+2019-06-21        16:26:26Z        11:26:26        Superheroes        The Script        No Sound Without Silence
+2019-06-21        16:27:03Z        11:27:03        Lost and Found        A Rocket To The Moon        Wild & Free (Deluxe)
+2019-07-08        01:50:08Z        20:50:08        New Obsession        FRANKIE        Dreamstate
+2019-07-08        01:57:30Z        20:57:30        ACADECA        Twilight Sparkle Sunset Shimmer        Friendship Games (Original Motion Picture Soundtrack)
+2019-07-08        19:13:21Z        14:13:21        Cold War        Foreign Figures        Overzealous - EP
+2019-07-08        19:20:26Z        14:20:26        Tunnels        Melodime        Tunnels
+2019-07-25        02:46:20Z        21:46:20        My Own Hero        Andy Grammer        My Own Hero / Don't Give Up On Me
+2019-07-25        21:02:17Z        16:02:17        Video Girl        Jonas Brothers        A Little Bit Longer
+2019-07-30        14:06:00Z        9:06:00        Together        Clemency        Together
+2019-07-30        14:17:03Z        9:17:03        Blink        Revive        Blink
+2019-07-30        14:44:50Z        9:44:50        Love This Girl        Stars Go Dim        Love This Girl
+2019-07-30        14:48:52Z        9:48:52        Waiting for Superman        Daughtry        It's Not Over....The Hits So Far
+2019-08-06        18:12:57Z        13:12:57        Deep Water        American Authors        Seasons
+2019-08-06        21:15:56Z        16:15:56        Interstellar Hearts        Awake or Sleeping        Interstellar Hearts
+2019-08-09        01:54:55Z        20:54:55        Pom Poms        Jonas Brothers        Pom Poms
+2019-08-09        02:40:31Z        21:40:31        That's Just The Way We Roll        Jonas Brothers        Jonas Brothers
+2019-08-09        16:10:01Z        11:10:01        End of an Era        Summer Wars        End of an Era
+2019-08-09        16:11:08Z        11:11:08        Stand In The Light        Jordan Smith        Something Beautiful
+2019-08-16        00:44:17Z        19:44:17        This Is Not Goodbye        Sidewalk Prophets        Live Like That
+2019-08-22        14:23:43Z        9:23:43        Que Sera        Justice Crew        Que Sera
+2019-08-22        21:21:16Z        16:21:16        Waiting Outside The Lines        Greyson Chance        Hold On ‘Til The Night
+2019-08-28        00:00:50Z        19:00:50        Keep It Moving        MY RED + BLUE        Keep It Moving
+2019-08-31        01:20:30Z        20:20:30        Pretty Girl - Cheat Codes X CADE Remix        Maggie Lindemann Cheat Codes CADE        Pretty Girl (Cheat Codes X CADE Remix)
+2019-09-01        16:59:28Z        11:59:28        Falling Out        Ross Copperman        My Love Will
+2019-09-05        12:05:40Z        7:05:40        Selfish        Brielle Von Hugel        Selfish
+2019-09-07        01:56:50Z        20:56:50        Duality        Set It Off        Duality
+2019-09-07        13:06:00Z        8:06:00        This Could Change Everything        Francesca Battistelli        Own It
+2019-09-07        14:33:51Z        9:33:51        Never Give Up        Sia        Never Give Up (From "Lion" Soundtrack)
+2019-09-09        01:57:39Z        20:57:39        Scream - Original Version        High School Musical Cast Zac Efron        High School Musical 3: Senior Year
+2019-09-09        04:22:57Z        23:22:57        Bet On It        Troy        High School Musical 2 Original Soundtrack
+2019-09-15        13:51:51Z        8:51:51        Welcome to the Fire        Willyecho        Welcome to the Fire
+2019-09-15        15:22:56Z        10:22:56        Like Ships Need the Sea        Emily Hearn        Red Balloon
+2019-10-06        17:01:27Z        12:01:27        What Breaks My Heart        Parachute        Wide Awake
+2019-10-07        21:09:37Z        16:09:37        Drive        Chris McCarrell Kristin Stokes George Salazar James Hayden Rodriguez The Lightning Thief Company Rob Rokicki        The Lightning Thief (Original Cast Recording)
+2019-10-08        02:21:28Z        21:21:28        Good Kid        Chris McCarrell The Lightning Thief Company Rob Rokicki        The Lightning Thief (Original Cast Recording)
+2019-11-28        04:51:51Z        23:51:51        Into the Unknown - Panic! At The Disco Version        Panic! At The Disco        Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+2019-12-20        17:53:50Z        12:53:50        Beautiful Scars        Maximillian        Beautiful Scars
+2019-12-20        17:56:29Z        12:56:29        Broken        Anson Seabra        Broken
+2019-12-21        03:40:07Z        22:40:07        Carry You        Ruelle Fleurie        Carry You
+2019-12-21        03:42:08Z        22:42:08        I Was In Heaven        Chelsea Cutler        I Was In Heaven
+2019-12-21        19:26:40Z        14:26:40        My Everything        Ariana Grande        My Everything (Deluxe)
+2019-12-21        19:42:59Z        14:42:59        I Believe You        FLETCHER        I Believe You
+2019-12-21        19:45:55Z        14:45:55        Just A Little Bit Of Your Heart        Ariana Grande        My Everything (Deluxe)
+2019-12-21        20:16:59Z        15:16:59        You're Special        NF        Perception
+2020-01-18        01:49:23Z        20:49:23        What A Man Gotta Do        Jonas Brothers        What A Man Gotta Do
+2020-01-19        15:03:08Z        10:03:08        Lonely        Diplo Jonas Brothers        Lonely
+2020-01-20        18:29:15Z        13:29:15        Take A Chance On Me - From 'Mamma Mia!' Original Motion Picture Soundtrack        Julie Walters Stellan Skarsgård        Mamma Mia! The Movie Soundtrack
+2020-02-21        01:31:27Z        20:31:27        The Rising        Dallas Stars        The Rising
+2020-04-08        03:23:18Z        22:23:18        When I Play for the County        The 2 Johnnies        When I Play for the County
+2020-05-20        02:34:19Z        21:34:19        Dead Girl Walking        Barrett Wilbert Weed Ryan McCartan        Heathers: The Musical (World Premiere Cast Recording)
+2020-05-27        16:18:08Z        11:18:08        Wonderland        Jackie Evancho        Two Hearts
+2020-06-10        17:33:20Z        12:33:20        If We Have Each Other        Alec Benjamin        Narrated For You
+2020-09-24        16:17:06Z        11:17:06        The Geeks Will Inherit the Earth        I Fight Dragons        The Geeks Will Inherit The Earth
+2020-09-26        19:05:06Z        14:05:06        Hey Mario        Patent Pending        Brighter
+2020-09-30        04:35:22Z        23:35:22        Until the Sun Comes Up        Patent Pending        Riot Hearts Rebellion
+2020-09-30        16:18:41Z        11:18:41        Punk Rock Songs        Patent Pending        Punk Rock Songs
+2020-10-01        14:27:16Z        9:27:16        Six Feet        Patent Pending        Riot Hearts Rebellion

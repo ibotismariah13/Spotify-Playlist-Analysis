@@ -1,0 +1,29 @@
+﻿2020-11-02T13:22:51Z        2020-11-02        13:22:51Z        8:22:51        Boulevard of Broken Dreams        Green Day        Greatest Hits: God's Favorite Band
+2020-11-02T13:23:48Z        2020-11-02        13:23:48Z        8:23:48        The Hanging Tree        James Newton Howard Jennifer Lawrence        The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)
+2020-11-02T13:24:56Z        2020-11-02        13:24:56Z        8:24:56        Untitled (How Could This Happen to Me?)        Simple Plan        Still Not Getting Any
+2020-11-02T13:25:14Z        2020-11-02        13:25:14Z        8:25:14        Carry on Wayward Son        Kansas        Leftoverture (Expanded Edition)
+2020-11-02T13:25:27Z        2020-11-02        13:25:27Z        8:25:27        A New Brain        I Fight Dragons        Canon Eyes
+2020-11-02T13:25:40Z        2020-11-02        13:25:40Z        8:25:40        Pumped Up Kicks        Foster The People        Torches
+2020-11-02T13:26:02Z        2020-11-02        13:26:02Z        8:26:02        War        grandson        War
+2020-11-02T13:26:51Z        2020-11-02        13:26:51Z        8:26:51        Six Feet        Patent Pending        Riot Hearts Rebellion
+2020-11-02T13:27:07Z        2020-11-02        13:27:07Z        8:27:07        Thanks for Nothing        The Downtown Fiction        Let's Be Animals
+2020-11-02T13:27:14Z        2020-11-02        13:27:14Z        8:27:14        The Fortunate        Cartel        Cartel
+2020-11-02T13:27:21Z        2020-11-02        13:27:21Z        8:27:21        American Oxygen        Rihanna        American Oxygen
+2020-11-02T13:27:54Z        2020-11-02        13:27:54Z        8:27:54        Girl        Jukebox The Ghost        Jukebox The Ghost
+2020-11-02T13:28:31Z        2020-11-02        13:28:31Z        8:28:31        Into the Unknown - Panic! At The Disco Version        Panic! At The Disco        Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+2020-11-02T13:29:10Z        2020-11-02        13:29:10Z        8:29:10        Show Yourself        Idina Menzel Evan Rachel Wood        Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)
+2020-11-02T13:29:31Z        2020-11-02        13:29:31Z        8:29:31        Go the Distance        Roger Bart        Hercules (Original Motion Picture Soundtrack)
+2020-11-02T13:30:09Z        2020-11-02        13:30:09Z        8:30:09        How Far I'll Go        Auli'i Cravalho        Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+2020-11-02T13:30:28Z        2020-11-02        13:30:28Z        8:30:28        My Shot        Lin-Manuel Miranda Anthony Ramos Daveed Diggs Okieriete Onaodowan Leslie Odom Jr. Original Broadway Cast of Hamilton        Hamilton (Original Broadway Cast Recording)
+2020-11-02T13:30:36Z        2020-11-02        13:30:36Z        8:30:36        Non-Stop        Leslie Odom Jr. Lin-Manuel Miranda Renée Elise Goldsberry Phillipa Soo Christopher Jackson Original Broadway Cast of Hamilton        Hamilton (Original Broadway Cast Recording)
+2020-11-02T13:30:49Z        2020-11-02        13:30:49Z        8:30:49        Say No to This        Jasmine Cephas-Jones Leslie Odom Jr. Lin-Manuel Miranda Sydney James Harcourt Original Broadway Cast of Hamilton        Hamilton (Original Broadway Cast Recording)
+2020-11-02T13:30:59Z        2020-11-02        13:30:59Z        8:30:59        First Burn        Ari Afsar Julia Harriman Lexi Lawson Rachelle Ann Go Shoba Narayan        First Burn
+2020-11-02T13:31:25Z        2020-11-02        13:31:25Z        8:31:25        Dead Girl Walking        Barrett Wilbert Weed Ryan McCartan        Heathers: The Musical (World Premiere Cast Recording)
+2020-11-06T05:11:12Z        2020-11-06        05:11:12Z        0:11:12        The Other Side        Hugh Jackman Zac Efron        The Greatest Showman (Original Motion Picture Soundtrack)
+2020-11-08T02:55:51Z        2020-11-08        02:55:51Z        21:55:51        She's Always a Woman        Billy Joel        The Stranger (Legacy Edition)
+2020-11-08T02:59:25Z        2020-11-08        02:59:25Z        21:59:25        Vienna        Billy Joel        The Stranger (Legacy Edition)
+2020-11-08T03:04:17Z        2020-11-08        03:04:17Z        22:04:17        The Longest Time        Billy Joel        An Innocent Man
+2020-11-12T04:20:15Z        2020-11-12        04:20:15Z        23:20:15        Back In School        Mother Mother        No Culture (Deluxe)
+2020-11-13T00:22:43Z        2020-11-13        00:22:43Z        19:22:43        Doctor        Truslow        Hurricane
+2020-11-13T02:44:24Z        2020-11-13        02:44:24Z        21:44:24        Songs I Can't Listen To        Neon Trees        Songs I Can't Listen To
+2020-11-13T03:25:13Z        2020-11-13        03:25:13Z        22:25:13        Hallucinogenics        Matt Maeson        Bank On The Funeral
