@@ -24,15 +24,17 @@ def read_data(sf):
             time = time.split(':')
             title = song[4]
             artist = song[5]
-            # album = song[6]
-            # album = album.rstrip('\n')
+            album = song[6]
+            album = album.rstrip('\n')
             song = [date, time, title, artist]
             playlist.append(song)
     return playlist
 
 
 def get_most_common_day(pl):
-    """creates a dicionary and finds the most common date and returns it"""
+    """
+    creates a dicionary and finds the most common date and returns it
+    """
 
     counts = {}
     for song in pl:
@@ -40,8 +42,8 @@ def get_most_common_day(pl):
             counts[song[0]] = 1  # adds a word to the dictonary
         else:
             counts[song[0]] += 1  # counts the dictonary
-    for hour in sorted(counts, key=counts.get, reverse=True):
-        return [hour, counts[hour]]
+    data = sorted(counts, key=counts.get, reverse=True)
+    return [data[0], counts[data[0]]]
 
 
 def get_most_common_hour(pl):
@@ -52,8 +54,8 @@ def get_most_common_hour(pl):
             counts[song[1][0]] = 1  # adds a word to the dictonary
         else:
             counts[song[1][0]] += 1  # counts the dictonary
-    for hour in sorted(counts, key=counts.get, reverse=True):
-        return [hour, counts[hour]]
+    data = sorted(counts, key=counts.get, reverse=True)
+    return [data[0], counts[data[0]]]
 
 
 def get_top_artist(pl):
@@ -65,8 +67,8 @@ def get_top_artist(pl):
             counts[song[3]] = 1  # adds a word to the dictonary
         else:
             counts[song[3]] += 1  # counts the dictonary
-    for hour in sorted(counts, key=counts.get, reverse=True):
-        return [hour, counts[hour]]
+    data = sorted(counts, key=counts.get, reverse=True)
+    return [data[0], counts[data[0]]]
 
 
 def playlist_info(pl, name):
